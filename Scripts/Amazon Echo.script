@@ -1,0 +1,25 @@
+(* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+  Script generated:  2016-12-06 09:54:11
+  From session:  Amazon Echo
+  Captured on:  2016-12-06 09:50:38
+  From server:  EggPlant Test Environment
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *)
+
+Drag "Chrome"
+Drop "image0001"
+DoubleClick "Chrome"
+TypeText "www.amazon.co.uk/",Return
+Click "Search Bar"
+TypeText "a"
+KeyDown "m"
+KeyUp "m"
+TypeText "az"
+KeyDown "o"
+KeyUp "o"
+TypeText "n ec"
+KeyDown "h"
+KeyUp "h"
+TypeText "o"
+Click "amazonechoinAllDepartments"
+Click "Search Icon"
+Click "Amazon Echo"
