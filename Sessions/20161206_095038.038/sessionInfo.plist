@@ -1,0 +1,42 @@
+{
+    commandList = "[{captureRect:[8, 615, 78, 645], command:@\"Drag\", eventNum:2, hotSpot:[4.3160323999999996e+001, 1.3750781200000000e+002], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"Chrome\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/istorrie876/Documents/eggPlantDemo.suite/Sessions/20161206_095038.038/Screen0002.png\"}, {captureRect:[8, 616, 78, 646], command:@\"Drop\", eventNum:2, hotSpot:[4.3160323999999996e+001, 1.3686920200000000e+002], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0001\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/istorrie876/Documents/eggPlantDemo.suite/Sessions/20161206_095038.038/Screen0003.png\"}, {captureRect:[2, 619, 72, 649], command:@\"DoubleClick\", eventNum:6, hotSpot:[3.7236359000000000e+001, 1.3303772000000001e+002], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"Chrome\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/istorrie876/Documents/eggPlantDemo.suite/Sessions/20161206_095038.038/Screen0006.png\"}, {command:@\"TypeText\", eventNum:10, screenShotFile:@\"C:/Users/istorrie876/Documents/eggPlantDemo.suite/Sessions/20161206_095038.038/Screen0010.png\", text:@\"\\\"www.amazon.co.uk/\\\",Return\"}, {captureRect:[284, 617, 354, 647], command:@\"Click\", eventNum:46, hotSpot:[3.1904791299999999e+002, 1.3516632099999998e+002], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"Search Bar\", searchType:@\"Precise\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/istorrie876/Documents/eggPlantDemo.suite/Sessions/20161206_095038.038/Screen0046.png\"}, {command:@\"TypeText\", eventNum:48, screenShotFile:@\"C:/Users/istorrie876/Documents/eggPlantDemo.suite/Sessions/20161206_095038.038/Screen0048.png\", text:@\"\\\"a\\\"\"}, {command:@\"KeyDown\", eventNum:50, screenShotFile:@\"C:/Users/istorrie876/Documents/eggPlantDemo.suite/Sessions/20161206_095038.038/Screen0048.png\", text:@\"\\\"m\\\"\"}, {command:@\"KeyUp\", eventNum:51, screenShotFile:@\"C:/Users/istorrie876/Documents/eggPlantDemo.suite/Sessions/20161206_095038.038/Screen0048.png\", text:@\"\\\"m\\\"\"}, {command:@\"TypeText\", eventNum:52, screenShotFile:@\"C:/Users/istorrie876/Documents/eggPlantDemo.suite/Sessions/20161206_095038.038/Screen0048.png\", text:@\"\\\"az\\\"\"}, {command:@\"KeyDown\", eventNum:56, screenShotFile:@\"C:/Users/istorrie876/Documents/eggPlantDemo.suite/Sessions/20161206_095038.038/Screen0048.png\", text:@\"\\\"o\\\"\"}, {command:@\"KeyUp\", eventNum:57, screenShotFile:@\"C:/Users/istorrie876/Documents/eggPlantDemo.suite/Sessions/20161206_095038.038/Screen0048.png\", text:@\"\\\"o\\\"\"}, {command:@\"TypeText\", eventNum:58, screenShotFile:@\"C:/Users/istorrie876/Documents/eggPlantDemo.suite/Sessions/20161206_095038.038/Screen0048.png\", text:@\"\\\"n ec\\\"\"}, {command:@\"KeyDown\", eventNum:66, screenShotFile:@\"C:/Users/istorrie876/Documents/eggPlantDemo.suite/Sessions/20161206_095038.038/Screen0060.png\", text:@\"\\\"h\\\"\"}, {command:@\"KeyUp\", eventNum:67, screenShotFile:@\"C:/Users/istorrie876/Documents/eggPlantDemo.suite/Sessions/20161206_095038.038/Screen0060.png\", text:@\"\\\"h\\\"\"}, {command:@\"TypeText\", eventNum:68, screenShotFile:@\"C:/Users/istorrie876/Documents/eggPlantDemo.suite/Sessions/20161206_095038.038/Screen0060.png\", text:@\"\\\"o\\\"\"}, {captureRect:[276, 576, 489, 593], command:@\"Click\", eventNum:70, hotSpot:[3.2497192400000000e+002, 1.8391137699999999e+002], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"amazonechoinAllDepartments\", searchType:@\"Text\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/istorrie876/Documents/eggPlantDemo.suite/Sessions/20161206_095038.038/Screen0070.png\"}, {captureRect:[538, 621, 608, 651], command:@\"Click\", eventNum:72, hotSpot:[5.7377850300000000e+002, 1.3133483899999999e+002], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"Search Icon\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/istorrie876/Documents/eggPlantDemo.suite/Sessions/20161206_095038.038/Screen0072.png\"}, {captureRect:[310, 270, 380, 300], command:@\"Click\", eventNum:74, hotSpot:[3.4528265399999998e+002, 4.8234146099999998e+002], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"Amazon Echo\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/istorrie876/Documents/eggPlantDemo.suite/Sessions/20161206_095038.038/Screen0074.png\"}]";
+    generatedCommands = (
+	"Drag \"Chrome\"",
+	"Drop \"image0001\"",
+	"DoubleClick \"Chrome\"",
+	"TypeText \"www.amazon.co.uk/\",Return",
+	"Click \"Search Bar\"",
+	"TypeText \"a\"",
+	"KeyDown \"m\"",
+	"KeyUp \"m\"",
+	"TypeText \"az\"",
+	"KeyDown \"o\"",
+	"KeyUp \"o\"",
+	"TypeText \"n ec\"",
+	"KeyDown \"h\"",
+	"KeyUp \"h\"",
+	"TypeText \"o\"",
+	"Click \"amazonechoinAllDepartments\"",
+	"Click \"Search Icon\"",
+	"Click \"Amazon Echo\""
+    );
+    locallyAddedFiles = {
+	"" = (
+	    "Chrome.png",
+	    "image0001.png",
+	    "Chrome.png",
+	    "Search Bar.png",
+	    "amazonechoinAllDepartments.png",
+	    "Search Icon.png",
+	    "Amazon Echo.png",
+	    "Chrome.png",
+	    "image0001.png",
+	    "Chrome.png",
+	    "Search Bar.png",
+	    "amazonechoinAllDepartments.png",
+	    "Search Icon.png",
+	    "Amazon Echo.png"
+	);
+    };
+    unnamedImageCount = <*I0>;
+}
