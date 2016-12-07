@@ -5,10 +5,10 @@
   From server:  EggPlant Test Environment
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *)
 
+Show remote
 DoubleClick "Chrome"
 TypeText "www.amazon.co.uk/",Return
 Click "Search Bar"
 TypeText "amazon echo"
-Click "amazonechoinAllDepartments"
 Click "Search Icon"
 Click "Amazon Echo"
